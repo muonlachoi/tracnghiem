@@ -1,0 +1,10 @@
+﻿PHP tượng trưng cho cái gì?;Preprocessed Hypertext Page;Hypertext Transfer Protocol;PHP: Hypertext Preprocessor;Hypertext Markup Language;PHP: Hypertext Preprocessor;6
+Mặc định của một biến không có giá trị được thể hiện với từ khóa?;none;null;undef;Không có khái niệm như vậy trong PHP;null;6
+ Ký hiệu nào được dùng khi sử dụng biến trong PHP?;$$;$;@;#;$;6
+Đâu không phải là phép toán được dùng so sánh trong PHP?;===;>=;!=;<=>;<=>;6
+Đáp án nào sau đây không được xác định trước bởi PHP (Magic constants)?; __LINE__;__FILE__;__DATE__;__METHOD__;__DATE__;6
+Hàm nào sau đây dùng để khai báo hằng số?;const;constants;define;def;define;6
+"Cho: a.=""a""; a .= ""b"";  a.=""c""; Giá trị a là:";"""c""";"""a""";"""abc""";Lỗi;"""abc""";6
+" a=4;for(b = 0; b<=a; b++)$c++; Giá trị của c ?";0;4;5;Lỗi;5;6
+ PHP dựa vào Syntax của ngôn ngữ nào?;C;Java;HTML;Ruby;C;6
+ký hiệu nào dùng để kết thúc câu lệnh trong PHP?;Dấu hai chấm (:);"Dấu chấm phẩy (;)";Dấu hỏi (?);Dấu chấm (.);"Dấu chấm phẩy (;)";6

@@ -1,0 +1,10 @@
+﻿Trình dịch PHP nào là trình dịch bạn cho là đúng?;PHP Translator;PHP Interpreter;PHP Communicator;Không có câu nào đúng;PHP Interpreter;197
+Chương trình nào không thuộc vào Hệ thống LAMP ?;MySQL;Apache;Microsoft;Linux;Microsoft;197
+Engine nào là nền tảng chính của PHP?;ZEDAT;ZEND;ZENAT;ZETA;ZEND;197
+Thực thi đọan code nào dưới đây để có thể biết PHP Environment đã được cài đặt đúng?;phpinfo();phptatus();phptest();phpcheck();phpinfo();197
+Cài đặt Apache xong bạn có thể kiểm tra servername của bạn qua cách gọi ulr http://localhost, ngoài cách này còn cách nào khác nữa không?;http://127.0.0.1;http://127.0.1.0;http://127.0.0.0;http://000.0.0.0;http://127.0.0.1;197
+Khi sử dụng bộ PHP & Apache bạn phải trả;1500$;150$;50$/tháng;không tốn đồng nào;không tốn đồng nào;197
+Ai là người đầu tiên phát minh ra PHP?;James Gosling;Tim Berners-Lee;Todd Fast;Rasmus Lerdorf;Rasmus Lerdorf;197
+Truớc khi đổi thành PHP: Hypertext Preprocessor nguồn gốc của nó phát xuất từ cụmtừ nào;Preminum Handled Processor;Personal HomePage Tools;Printed Homepage Product;Personal Hightec Processor;Personal HomePage Tools;197
+PHP không hổ trợ dạng type nào?;integer;string;single;double;single;197
+câu lệnh nào dùng để xuất ra trình duyệt?;say;write;echo;writeline;echo;197

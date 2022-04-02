@@ -1,0 +1,241 @@
+/* đăng ký */
+/* .container .formdk{
+    background-color: #00ccff;
+    border: 2px solid rgb(22, 4, 4);
+    height: 420px;
+    width: 600px;
+    margin: auto;
+    margin-top: 90px;
+    border-radius: 20px;
+}
+.container .formdk .textform{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+}
+.container .formdk .dangky{
+    margin: 0;
+    width: 100px;
+}
+.container .formdk textarea{
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+form.form-login {
+    background-color: #00ccff;
+    border: 2px solid rgb(22, 4, 4);
+    width: 450px;
+    height: 250px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+form .form-login textarea {
+    margin-top: 5px;
+    width: 3000px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+form .form-login .dangnhap {
+    border-radius: 8px;
+    width: 100px;
+    margin-top: 10px;
+    
+}
+.container .form-login .textform{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+}
+form.form-cauhoi {
+    background-color: #00ccff;
+    border: 2px solid rgb(22, 4, 4);
+    width: 600px;
+    height: 440px;
+    margin: auto;
+    margin-top: 65px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+} */
+/* nhập câu hỏi */
+form .form-cauhoi textarea {
+    margin-top: 5px;
+    width: 3000px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+form .form-cauhoi .nhapcauhoi {
+    border-radius: 8px;
+    width: 100px;
+    margin-top: 10px;
+    
+}
+.container .form-cauhoi .textform{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 2px;
+    background-color: rgb(230, 220, 220);
+    padding-left: 10px;
+}
+
+/* table  */
+.table{
+    margin: auto;
+}
+.table thead{
+    background-color: #00ccff;
+}
+
+.list-group-item{
+    text-align: center;
+}
+.text-danger{
+    margin: auto;
+    padding-top: 20px;
+}
+.title{
+    padding: 10px;
+}
+
+/* footer */
+.text-footer{
+    list-style: none;
+    margin: 0;
+    
+}
+ol, ul{
+    padding-left: 0px !important;
+}
+/* container2 */
+/* body */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text-footer{
+    list-style: none;
+    margin: 0;
+    color: white;
+}
+ol, ul{
+    padding-left: 0px !important;
+}
+.btn-center{
+    margin-left: 28px;
+    padding: 5px 20px 5px 20px;
+    font-size: 12px;
+}
+.col-border{
+    border: .5px rgb(201, 200, 200) solid;
+    margin: 20px 10px 20px 0px;
+}
+.card-title{
+    font-size: 18px;
+}
+hr{
+    margin: 0px;
+}
+.row-footer{
+    padding:20px 0px 20px 0px;
+}
+.title-footer{
+    color: white;
+}
+.text-white{
+    color: white;
+}
+.title-logo{
+    font-size: 20px;
+}
+.banner-size{
+    margin-left: 80px;
+}
+.text-name{
+    margin-right: 10px;
+}
+.title-footer{
+    margin-bottom: 5px;
+}
+.text-end{
+    position: relative;
+    padding: 10px 60px 10px 0;
+    font-weight: 100;
+    font-size: 10px;
+    right: 310px;
+}
+p{
+    position: relative;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    
+}
+.row{
+   
+    margin-bottom: 35px;
+    
+}
+@-webkit-keyframes my {
+    0% { color: #F8CD0A; } 
+    50% { color: #fff;  } 
+    100% { color: #F8CD0A;  } 
+}
+@-moz-keyframes my { 
+    0% { color: #F8CD0A;  } 
+    50% { color: #fff;  }
+    100% { color: #F8CD0A;  } 
+}
+@-o-keyframes my { 
+    0% { color: #F8CD0A; } 
+    50% { color: #fff; } 
+    100% { color: #F8CD0A;  } 
+}
+@keyframes my { 
+    0% { color: #2d73f5;  } 
+    16.6% { color: #eef125;  } 
+    33.2% { color: rgb(253, 17, 202);  }
+    50% { color: rgb(255, 255, 255);  }
+    66.6% { color: #0af889;  } 
+    83.4% { color: #f80a0a;  } 
+    100% { color: #f8750a;  } 
+} 
+.test {
+    -webkit-animation: my 1000ms infinite;
+    -moz-animation: my 1000ms infinite; 
+    -o-animation: my 1000ms infinite; 
+    animation: my 1000ms infinite;
+}
+.h-hover a:hover{
+    color: #ffffff !important;
+    background-color: rgb(4, 70, 59) !important;
+}
+.l-hover a:hover{
+    color: #ffffff !important;
+    background-color: rgb(0, 0, 0) !important;
+}
+.error{
+    color: #f10707;
+}

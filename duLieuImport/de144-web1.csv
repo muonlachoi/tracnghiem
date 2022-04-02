@@ -1,0 +1,10 @@
+﻿ Thẻ <input type=”Submit” …> dùng để làm gì?;Tạo một nút lệnh dùng để gửi tin trong form đi;Tất cả các ý kiến trên;Tạo một ô text để nhập dữ liệu;Tạo một nút lệnh dùng để xoá thông tin trong form;Tạo một nút lệnh dùng để gửi tin trong form đi;144
+Thẻ HTML nào tạo ra một ô nhập dữ liệu?;"<input type=""textfield"">";" <textinput type=""text"">";<textfield>;"<input type=""text"">";"<input type=""text"">";144
+Thẻ <input type=”Password” …> dùng để làm gì?;Tạo một textbox cho phép nhập liệu nhiều dòng;Tạo một ô text để nhập dữ liệu 1 dòng;Tạo một ô nhập mật khẩu;Tất cả các ý trên;Tạo một ô nhập mật khẩu;144
+ Những phần tử HTML nào dùng để định nghĩa cấu trúc của bảng?;<table><tr><tt>;<table><tr><td>;<table><head><tfoot>;<thead><body><tr>;<table><tr><td>;144
+ Đoạn mã HTML nào thực hiện việc thêm màu nền cho trang web?;"<body style=""background-color:yellow;"">";"<body bg=""yellow"">";<background>yellow</background>;" <body style=""color:yellow;"">";"<body style=""background-color:yellow;"">";144
+Phần tử HTML nào định nghĩa dữ liệu sẽ hiển thị trên thanh tiêu đề của tài liệu?;<meta>;<title>;<head>;<html>;<title>;144
+Chọn phần tử HTML được dùng nhấn mạnh nội dung văn bản?;<i>;<em>;<italic>;<b>;<em>;144
+ Thẻ HTML nào tạo ra một checkbox?;<check>;<checkbox>;"<input type=""check"">";"<input type=""checkbox"">";"<input type=""checkbox"">";144
+ Đâu là phần tử HTML tạo ra một danh sách đầu mục bởi dấu chấm?;<ul>; <list>;<dl>;<ol>;<ul>;144
+Ai đang làm các chuẩn cho Web?; Tổ chức World Wide Web Consortium(W3C);Mozilla;Google;Microsoft; Tổ chức World Wide Web Consortium(W3C);144
